@@ -4,6 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucasamora_)
 
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasamora&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
